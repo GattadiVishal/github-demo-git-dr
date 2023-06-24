@@ -1,2 +1,0 @@
-ReadWrite:
-This is read and write file.

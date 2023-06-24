@@ -1,2 +1,0 @@
-ReadOnly:
-This is a read only file. Nothing else.
